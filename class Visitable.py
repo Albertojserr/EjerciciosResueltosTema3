@@ -1,3 +1,4 @@
+from EjerciciosResueltosTema3 import *
 class Visitable:
 
     def acepta(self, visitante):
